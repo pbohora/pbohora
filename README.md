@@ -45,21 +45,15 @@
 
 ---
 
-### Languages and Tools:
-
-  <img align="left" width="70%" alt="pbohora's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=pbohora&show_icons=true&hide_border=true&theme=radical" />
+![Pradip's github stats](https://github-readme-stats.vercel.app/api?username=pbohora&show_icons=true&hide_border=true&theme=radical)
 
 <br />
 
-- Wakatime card
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/pbohora/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pbohora&hide=javas)](https://github.com/pbohora/github-readme-stats)
 
 <br />
 
-- Wakatime card
-
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/pbohora?username=pbohora)](https://github.com/pbohora/github-readme-stats)
+[![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=pbohora)](https://github.com/pbohora/github-readme-stats)
 
 [instagram]: https://instagram.com/pradeepbohora
 [linkedin]: https://linkedin.com/in/pbohora
