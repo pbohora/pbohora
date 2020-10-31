@@ -1,15 +1,12 @@
 ### Hi there, I'm Pradip Bohora 👋
 
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
-
 ## I'm a Full-stack Developer!!
 
 - 🔭 I'm currently working in Haaga-Helia campus as full-statck developer
 - 🌱 I’m currently learning React-Native, docker container and microservices 🤣
 - 👯 I’m looking for an opportunity where I can grow and learn
 - 🥅 2020/20221 Goals:Build more projects
-- ⚡ Fun fact: I love football, omen
+- ⚡ Fun fact: I love football
 
 ### Connect with me:
 
