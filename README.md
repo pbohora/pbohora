@@ -45,7 +45,7 @@
 
 ---
 
-  <img align="left" width="100%" alt="pbohora's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=pbohora&show_icons=true&hide_border=true&theme=radical" />
+  <img align="left" width="70%" alt="pbohora's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=pbohora&show_icons=true&hide_border=true&theme=radical" />
 
 <br />
 <br />
@@ -54,7 +54,7 @@
 
 ---
 
-  <img align="left" width="100%" alt="pbohora's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pbohora&hide=java" />
+  <img align="left" width="70%" alt="pbohora's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pbohora&hide=java" />
   
 <br />
 <br />
@@ -63,7 +63,7 @@
 
 ---
 
-  <img align="left"  width="100%" alt="pbohora's GitHub Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=pbohora" />
+  <img align="left"  width="70%" alt="pbohora's GitHub Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=pbohora" />
 
 [instagram]: https://instagram.com/pradeepbohora
 [linkedin]: https://linkedin.com/in/pbohora
