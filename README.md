@@ -45,25 +45,21 @@
 
 ---
 
+### Languages and Tools:
+
   <img align="left" width="70%" alt="pbohora's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=pbohora&show_icons=true&hide_border=true&theme=radical" />
 
 <br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
+
+### Languages and Tools:
 
 ---
 
   <img align="left" alt="pbohora's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pbohora&hide=java" />
   
 <br />
-<br />
-<br />
-<br />
+
+### Languages and Tools:
 
 ---
 
