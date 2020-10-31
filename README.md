@@ -45,7 +45,7 @@
 
 ---
 
-  <img align="left" alt="pbohora's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=pbohora&show_icons=true&hide_border=true&theme=radical" />
+  <img align="left" width="100%" alt="pbohora's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=pbohora&show_icons=true&hide_border=true&theme=radical" />
 
 <br />
 <br />
