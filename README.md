@@ -8,6 +8,10 @@
 - 🥅 2020/20221 Goals:Build more projects and contribute to open source projects
 - ⚡ Fun fact: I love football
 
+<br />
+<br />
+<br />
+
 ---
 
 ## Connect with me:
@@ -15,6 +19,8 @@
 [<img align="left" alt="pbohora | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="pradeepbohora | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
+<br />
+<br />
 <br />
 
 ---
