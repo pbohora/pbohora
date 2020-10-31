@@ -10,8 +10,12 @@
 
 ## Connect with me:
 
+<!--
 [<img align="left" alt="pbohora | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="pradeepbohora | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="pradeepbohora | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram] -->
+
+[![Linkedin: thaianebraga](https://img.shields.io/badge/-pradipbohora-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pbohora/)][linkedin]
+[![Instagram: pradeepbohora](https://img.shields.io/twitter/follow/pradeepnohora?style=social)][instagram]
 
 <br />
 
