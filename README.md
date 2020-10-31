@@ -53,13 +53,13 @@
 
 - Wakatime card
 
-  <img align="left" alt="pbohora's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pbohora&hide=java" />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/pbohora/github-readme-stats)
 
 <br />
 
 - Wakatime card
 
-  <img align="left"  width="70%" alt="pbohora's GitHub Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=pbohora" />
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/pbohora?username=pbohora)](https://github.com/pbohora/github-readme-stats)
 
 [instagram]: https://instagram.com/pradeepbohora
 [linkedin]: https://linkedin.com/in/pbohora
