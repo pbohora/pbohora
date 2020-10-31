@@ -51,17 +51,13 @@
 
 <br />
 
-### Languages and Tools:
-
----
+- Wakatime card
 
   <img align="left" alt="pbohora's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pbohora&hide=java" />
-  
+
 <br />
 
-### Languages and Tools:
-
----
+- Wakatime card
 
   <img align="left"  width="70%" alt="pbohora's GitHub Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=pbohora" />
 
