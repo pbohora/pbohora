@@ -1,4 +1,4 @@
-### Hi there, I'm Pradip Bohora 👋
+## Hi there, I'm Pradip Bohora 👋
 
 ## I'm a Full-stack Developer!!
 
@@ -8,14 +8,14 @@
 - 🥅 2020/20221 Goals:Build more projects and contribute to open source projects
 - ⚡ Fun fact: I love football
 
-### Connect with me:
+## Connect with me:
 
 [<img align="left" alt="pbohora | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="pradeepbohora | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 
-### Languages and Tools:
+## 🔧 Technologies & Tools
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][vscode]
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][html]
@@ -45,15 +45,18 @@
 
 ---
 
-![Pradip's github stats](https://github-readme-stats.vercel.app/api?username=pbohora&show_icons=true&hide_border=true&theme=radical)
+## &#x1f4c8; GitHub Stats
 
-<br />
+<a href="https://github.com/pbohora/pbohora">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pbohora&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+<a href="https://github.com/pbohora/pbohora">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=pbohora&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
+</a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pbohora&hide=javas)](https://github.com/pbohora/github-readme-stats)
-
-<br />
-
-[![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=pbohora)](https://github.com/pbohora/github-readme-stats)
+<a href="https://github.com/pbohora/pbohora">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=willianrod&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
 
 [instagram]: https://instagram.com/pradeepbohora
 [linkedin]: https://linkedin.com/in/pbohora
