@@ -54,7 +54,7 @@
 
 ---
 
-  <img align="left" alt="pbohora's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pbohora&hide=java" />
+  <img align="left" width="100%" alt="pbohora's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pbohora&hide=java" />
   
 <br />
 <br />
@@ -63,7 +63,7 @@
 
 ---
 
-  <img align="left" alt="pbohora's GitHub Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=pbohora" />
+  <img align="left"  width="100%" alt="pbohora's GitHub Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=pbohora" />
 
 [instagram]: https://instagram.com/pradeepbohora
 [linkedin]: https://linkedin.com/in/pbohora
