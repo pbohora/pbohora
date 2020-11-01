@@ -14,8 +14,8 @@
 [<img align="left" alt="pbohora | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="pradeepbohora | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram] -->
 
-[![Linkedin: thaianebraga](https://img.shields.io/badge/-pradipbohora-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pbohora/)][linkedin]
-[<img alt="pradeepbohora | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[![Linkedin: pbohora](https://img.shields.io/badge/Linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/pbohora/)][linkedin]
+[![Linkedin: pbohora](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white&link=https://instagram.com/pradeepbohora)][instagram]
 
 <br />
 
