@@ -1,12 +1,12 @@
 ## Hi there, I'm Pradip Bohora 👋
 
-## I'm a Full-stack Developer!!
+### I'm a Full-stack Developer!!
 
-- 🔭 I'm currently working in Haaga-Helia campus as full-statck developer
+- 🔭 I'm currently working in 3AMK project 
 - 🌱 I’m currently learning React-Native, docker container and microservices 🤣
 - 👯 I’m looking for an opportunity where I can grow and learn
 - 🥅 2020/20221 Goals:Build more projects and contribute to open source projects
-- ⚡ Fun fact: I love football
+-
 
 ## Connect with me:
 
