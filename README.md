@@ -3,7 +3,7 @@
 ### I'm a Full-stack Developer!!
 
 - 🔭 I'm currently working in 3AMK project 
-- 🌱 I’m currently learning React-Native, docker container and microservices 🤣
+- 🌱 I’m currently learning React-Native, docker container and microservices.
 - 🥅 2020/20221 Goals:Build more projects and contribute to open source projects
 
 ## Connect with me:
