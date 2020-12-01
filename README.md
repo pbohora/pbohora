@@ -4,7 +4,7 @@
 
 - 🔭 I'm currently working in 3AMK project 
 - 🌱 I’m currently learning React-Native, docker container and microservices.
-- 🥅 2020/20221 Goals:Build more projects and contribute to open source projects
+- 🥅 2020/2021 Goals:Build more projects and contribute to open source projects
 
 ## Connect with me:
 
