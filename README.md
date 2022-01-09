@@ -1,10 +1,8 @@
 ## Hi there, I'm Pradip Bohora 👋
 
 ### I'm a Full-stack Developer!!
-
-- 🔭 I'm currently working in 3AMK project 
-- 🌱 I’m currently learning React-Native, docker container and microservices.
-- 🥅 2020/2021 Goals:Build more projects and contribute to open source projects
+ 
+- 🌱 I’m currently learning docker container and microservices.
 
 ## Connect with me:
 
