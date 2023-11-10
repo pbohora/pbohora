@@ -2,7 +2,6 @@
 
 ### I'm a Full-stack Developer!!
  
-- 🌱 I’m currently learning docker container and microservices.
 
 ## Connect with me:
 
